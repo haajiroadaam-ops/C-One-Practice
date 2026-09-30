@@ -1,0 +1,10 @@
+C:\Users\haaji\Documents\GitHub\C-One-Practice\Electricity Bill Calculator ASSIGMENT\Electricity Bill Calculator ASSIGMENT\bin\Debug\Electricity Bill Calculator ASSIGMENT.exe.config
+C:\Users\haaji\Documents\GitHub\C-One-Practice\Electricity Bill Calculator ASSIGMENT\Electricity Bill Calculator ASSIGMENT\bin\Debug\Electricity Bill Calculator ASSIGMENT.exe
+C:\Users\haaji\Documents\GitHub\C-One-Practice\Electricity Bill Calculator ASSIGMENT\Electricity Bill Calculator ASSIGMENT\bin\Debug\Electricity Bill Calculator ASSIGMENT.pdb
+C:\Users\haaji\Documents\GitHub\C-One-Practice\Electricity Bill Calculator ASSIGMENT\Electricity Bill Calculator ASSIGMENT\obj\Debug\Electricity Bill Calculator ASSIGMENT.csproj.AssemblyReference.cache
+C:\Users\haaji\Documents\GitHub\C-One-Practice\Electricity Bill Calculator ASSIGMENT\Electricity Bill Calculator ASSIGMENT\obj\Debug\Electricity_Bill_Calculator_ASSIGMENT.Form1.resources
+C:\Users\haaji\Documents\GitHub\C-One-Practice\Electricity Bill Calculator ASSIGMENT\Electricity Bill Calculator ASSIGMENT\obj\Debug\Electricity_Bill_Calculator_ASSIGMENT.Properties.Resources.resources
+C:\Users\haaji\Documents\GitHub\C-One-Practice\Electricity Bill Calculator ASSIGMENT\Electricity Bill Calculator ASSIGMENT\obj\Debug\Electricity Bill Calculator ASSIGMENT.csproj.GenerateResource.cache
+C:\Users\haaji\Documents\GitHub\C-One-Practice\Electricity Bill Calculator ASSIGMENT\Electricity Bill Calculator ASSIGMENT\obj\Debug\Electricity Bill Calculator ASSIGMENT.csproj.CoreCompileInputs.cache
+C:\Users\haaji\Documents\GitHub\C-One-Practice\Electricity Bill Calculator ASSIGMENT\Electricity Bill Calculator ASSIGMENT\obj\Debug\Electricity Bill Calculator ASSIGMENT.exe
+C:\Users\haaji\Documents\GitHub\C-One-Practice\Electricity Bill Calculator ASSIGMENT\Electricity Bill Calculator ASSIGMENT\obj\Debug\Electricity Bill Calculator ASSIGMENT.pdb
