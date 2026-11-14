@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haaji\\Documents\\GitHub\\C-One-Practice\\Example_Nasted_Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5C9BCC-382E-4DFE-84FC-CD2EAA0C8ED0}|Example_Nasted_Loop\\Example_Nasted_Loop.csproj|c:\\users\\haaji\\documents\\github\\c-one-practice\\example_nasted_loop\\example_nasted_loop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC5C9BCC-382E-4DFE-84FC-CD2EAA0C8ED0}|Example_Nasted_Loop\\Example_Nasted_Loop.csproj|solutionrelative:example_nasted_loop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\haaji\\Documents\\GitHub\\C-One-Practice\\Example_Nasted_Loop\\Example_Nasted_Loop\\Form1.cs",
+              "RelativeDocumentMoniker": "Example_Nasted_Loop\\Form1.cs",
+              "ToolTip": "C:\\Users\\haaji\\Documents\\GitHub\\C-One-Practice\\Example_Nasted_Loop\\Example_Nasted_Loop\\Form1.cs [Design]",
+              "RelativeToolTip": "Example_Nasted_Loop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:00:38.701Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
