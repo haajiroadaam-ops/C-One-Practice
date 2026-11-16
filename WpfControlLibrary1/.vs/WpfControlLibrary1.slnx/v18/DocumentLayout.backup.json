@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haaji\\Documents\\GitHub\\C-One-Practice\\WpfControlLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB7F3CC-2AFE-481E-AD9D-A8C79FFEB59F}|WpfControlLibrary1\\WpfControlLibrary1.csproj|c:\\users\\haaji\\documents\\github\\c-one-practice\\wpfcontrollibrary1\\wpfcontrollibrary1\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB7F3CC-2AFE-481E-AD9D-A8C79FFEB59F}|WpfControlLibrary1\\WpfControlLibrary1.csproj|solutionrelative:wpfcontrollibrary1\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\haaji\\Documents\\GitHub\\C-One-Practice\\WpfControlLibrary1\\WpfControlLibrary1\\UserControl1.xaml.cs",
+              "RelativeDocumentMoniker": "WpfControlLibrary1\\UserControl1.xaml.cs",
+              "ToolTip": "C:\\Users\\haaji\\Documents\\GitHub\\C-One-Practice\\WpfControlLibrary1\\WpfControlLibrary1\\UserControl1.xaml.cs",
+              "RelativeToolTip": "WpfControlLibrary1\\UserControl1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:43:39.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
